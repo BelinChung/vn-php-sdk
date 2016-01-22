@@ -1,0 +1,19 @@
+{
+    "name": "belinchung/vn-php-sdk",
+    "description": " Wechat Notice Service Php Demo",
+    "authors": [
+        {
+            "name": "BelinChung",
+            "email": "BelinChung@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.0.0"
+    },
+    "autoload": {
+        "classmap": [
+            "lib"
+        ]
+    },
+    "license": "MIT"
+}
